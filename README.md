@@ -23,3 +23,5 @@
 - **Framer Motion** לאנימציות
 - **Sonner** להתראות Toast
 - **shadcn/ui** לקומפוננטות UI
+
+## 🚀 איך להריץ
